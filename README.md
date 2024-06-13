@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+The News App offers a robust platform for users to stay informed with the latest news and events. Its intuitive design and real-time updates ensure an engaging experience, making it an indispensable tool for accessing timely and relevant information.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*Architecture
+1. The News App is built using modern JavaScript frameworks to ensure fast and reliable performance. It leverages:
+2. React for building the user interface and managing state.
+3. React Router for seamless navigation between different sections of the app.
+4. Axios for making HTTP requests to fetch news data from the server.
+Styled Components and CSS for designing a visually appealing and responsive UI.
 
-## Available Scripts
+*API Integration
+The app integrates with RESTful APIs to fetch the latest news, events, and media content. The API endpoints provide data in JSON format, which the app uses to dynamically update and render content.
 
-In the project directory, you can run:
+Here are the quick glimpse of our News-App named "India Tv"
 
-### `npm start`
+![Screenshot 2024-06-13 235948](https://github.com/Ambalika252252/news-app/assets/55618820/f1cb1925-b146-48c1-84b3-70b07835d665)
+![Screenshot 2024-06-14 002648](https://github.com/Ambalika252252/news-app/assets/55618820/9f6964a5-3e97-4d57-858e-63b42742aca0)
+![Screenshot 2024-06-13 235957](https://github.com/Ambalika252252/news-app/assets/55618820/ea53c8b6-c3a1-41f4-9738-378c9d279342)
+![Screenshot 2024-06-14 000009](https://github.com/Ambalika252252/news-app/assets/55618820/e1fdcfc7-b49e-4164-a901-691877d1a5f6)
+![Screenshot 2024-06-14 000020](https://github.com/Ambalika252252/news-app/assets/55618820/1799f446-b05e-42f1-847d-c9c3274394ae)
+![Screenshot 2024-06-14 000031](https://github.com/Ambalika252252/news-app/assets/55618820/548b7810-f65b-41b7-a70e-8b52c950ddc9)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
